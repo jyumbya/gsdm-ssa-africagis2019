@@ -36,5 +36,3 @@ vignettes/*.pdf
 rsconnect/
 
 #images
-*.png
-*.PNG
