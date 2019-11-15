@@ -215,7 +215,11 @@ Difficulty : `**`
 
 --
 
-- File issues/ report a bug
+- File issues/ report a bug when using the R packages
+
+      <https://github.com/soilmapper/mapsRinteractive>
+
+      <https://github.com/soilmapper/SurfaceTortoise>
 
 --
 
