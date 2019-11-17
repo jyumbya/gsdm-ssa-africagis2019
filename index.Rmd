@@ -157,6 +157,26 @@ Difficulty : `**`
 
 ---
 
+# Available tools
+
+.pull-left[
+
+Soil Sampling
+
+![](sampling.png)
+
+]
+
+.pull-right[
+
+Local map adaptation
+
+![](adaptation.png)
+
+]
+
+---
+
 # System availability
 
 - Countries;
