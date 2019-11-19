@@ -2,7 +2,7 @@
 title: "Global Soil Data Manager - sub-Saharan Africa (GSDM - SSA)"
 subtitle: ""
 author: "John Mutua, Kristin Piikki & Mats Söderström"
-institute: ""
+institute: "AfricaGIS 2019 Conference, Kigali, Rwanda"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   xaringan::moon_reader:
