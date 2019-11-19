@@ -32,6 +32,8 @@ output:
 
 ![](soil_sampling.png)
 
+Image credit: [Neil Palmer]
+
 ]
 
 --
@@ -281,6 +283,5 @@ class: dv, center, middle
 
 ---
 
-class: dv, center, middle
-
-# Questions?
+background-image: url("ciat_end.png")
+background-size: cover
